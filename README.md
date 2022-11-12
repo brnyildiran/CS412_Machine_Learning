@@ -11,3 +11,6 @@ HW2
 - Decision Tree
 
 Term Project
+Utilizing different Machine Learning Models in order to:
+- Predict whether a tweet is political or not
+- Predict whether an account is bot or not
